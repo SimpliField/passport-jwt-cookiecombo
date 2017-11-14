@@ -1,5 +1,5 @@
 {
-  "name": "passport-jwt-cookiecombo",
+  "name": "@simplifield/passport-jwt-cookiecombo",
   "version": "1.0.5",
   "description": "JSON Web Token (JWT) cookie combo authentication strategy for Passport and Node.js.",
   "main": "./lib",
